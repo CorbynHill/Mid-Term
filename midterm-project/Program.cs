@@ -17,7 +17,7 @@ if (Category == 1) //FOOD
 
     string word = randomWord;
     char[] display = new string('_', word.Length).ToCharArray();
-    int attempts = 999;
+    int attempts = 8;
     int tries = 0;
 
     while (attempts > 0)
@@ -73,7 +73,7 @@ if (Category == 2) //ANIMALS
 
     string word = randomWord;
     char[] display = new string('_', word.Length).ToCharArray();
-    int attempts = 999;
+    int attempts = 8;
     int tries = 0;
 
     while (attempts > 0)
@@ -130,7 +130,7 @@ if (Category == 3) //MOVIE
 
     string word = randomWord;
     char[] display = new string('_', word.Length).ToCharArray();
-    int attempts = 999;
+    int attempts = 8;
     int tries = 0;
 
     while (attempts > 0)

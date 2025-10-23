@@ -12,3 +12,17 @@ C:\Users\ch0999003\OneDrive - Ozarks Technical Community College\midterm-project
 C:\Users\ch0999003\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.pdb
 C:\Users\ch0999003\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.genruntimeconfig.cache
 C:\Users\ch0999003\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\ref\midterm-project.dll
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\bin\Debug\net8.0\midterm-project.exe
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\bin\Debug\net8.0\midterm-project.deps.json
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\bin\Debug\net8.0\midterm-project.runtimeconfig.json
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\bin\Debug\net8.0\midterm-project.dll
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\bin\Debug\net8.0\midterm-project.pdb
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.AssemblyInfoInputs.cache
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.AssemblyInfo.cs
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.csproj.CoreCompileInputs.cache
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.dll
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\refint\midterm-project.dll
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.pdb
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\midterm-project.genruntimeconfig.cache
+C:\Users\kraiz\OneDrive - Ozarks Technical Community College\midterm-project\obj\Debug\net8.0\ref\midterm-project.dll
